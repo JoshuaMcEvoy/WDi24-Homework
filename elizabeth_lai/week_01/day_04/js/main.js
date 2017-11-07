@@ -12,6 +12,7 @@ const rectangle = {
   length: 4,
   width: 4
 };
+//helloooooo
 
 const isSquare = function (rec) {
   if (rec.length === rec.width) {
